@@ -22,3 +22,5 @@ Para finalizar. Sube el módulo a Github y el vídeo a GDrive y comparte ambos e
 Gracias y suerte!
 
 PD: Todas las herramientas que uses son válidas a excepción de módulos completos de terceros de Odoo. Librerías de Python cualesquiera se aceptan.
+
+open -a TextEdit /System/Volumes/Data/Users/albert_c/Library/Python/3.9/lib/python/site-packages/gevent/greenlet.py
